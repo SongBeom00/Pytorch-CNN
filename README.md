@@ -9,6 +9,7 @@
 - 성능 평가 지표 : ROC-AUC
 - 모델 : EfficientNet B1 및 EfficientNet V2 S,M 모델로 학습
 
+
 #### 파이썬(Python) uv 환경 세팅 (macOS 기준)
 
 ### 1. uv 설치
